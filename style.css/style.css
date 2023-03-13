@@ -7,7 +7,7 @@
      font-weight: 700;}
 header{
     flex-basis: 10%;
-    background-color: rgba(128, 128, 128, 0.596);
+    background-color: rgba(128, 128, 128, 0.527);
     display: flex;
     justify-content: center;
     align-items: center;}
